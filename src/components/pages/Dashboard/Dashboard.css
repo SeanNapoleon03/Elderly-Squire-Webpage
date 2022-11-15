@@ -1,0 +1,11 @@
+.header {
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    height: 80px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
